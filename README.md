@@ -1,4 +1,4 @@
-# First Map Template Repository
+# Cynthia Sanders Map Analysis
 
 A template repository for getting started with map-making in GitHub Codespaces.
 
